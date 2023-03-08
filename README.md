@@ -1,3 +1,5 @@
+# Stroke Social (For Fantom Hackathon)
+
 ## Inspiration
 
 In fact, making traditional NFTs like Ape is hard for most users. While thinking about building a new avatar platform like Gravatar but for Web3, I just found that it's actually very cool for users to draw their own NFTs and then they can use them as their own avatars. And also, how about making money from your "strokes"?
