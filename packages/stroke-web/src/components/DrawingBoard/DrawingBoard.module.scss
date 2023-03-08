@@ -1,0 +1,14 @@
+.board {
+  cursor: crosshair;
+
+  & > svg {
+    * {
+      cursor: pointer;
+
+      &.selected {
+        cursor: move;
+        outline: 2px solid teal;
+      }
+    }
+  }
+}
